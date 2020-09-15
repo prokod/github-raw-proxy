@@ -1,0 +1,4 @@
+client:
+  baseUrl: "https://git.dhl.com"
+  token: "b3e3fb1d156aef181b6b51756df9755fe1eec9e6"
+  userAgent: "nashor"
